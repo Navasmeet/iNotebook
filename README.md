@@ -1,9 +1,11 @@
 **Testing Steps**
 
-##Prerequisites
+**Prerequisites**
+
          1. Mongodb installed and running
          2. Nodejs installed
-##Running the app
+         
+**Running the app**
 
 In inotebook directory , open cmd and type npm install (to install the dependencies defined in package.json file)
 In inotebook directory , open cmd and type npm start (to install the dependencies defined in package.json file)
